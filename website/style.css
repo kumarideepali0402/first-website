@@ -28,7 +28,7 @@ div+p{
 xyz.hover{
       
 }*/
-.navbar{
+/* .navbar{
     background-color: black;
     gap :400px;
 }
@@ -56,6 +56,21 @@ div{
     background-color: cadetblue;
     
     
+} */
+div{
+    font-size: 50px;
+    text-align: left;
+    letter-spacing:  2px;
+    margin: 20px;
+    padding-top: 100px;
 }
+span{
+    display:inline-block;
+}
+span::first-letter{
+    font-size: 70px;
+    font-weight: bold;
+    color:black;
 
+}
 
